@@ -1,0 +1,4 @@
++ ts-node@10.4.0
+added 13 packages from 45 contributors, updated 1 package and audited 1547 packages in 5.772s
+found 14 vulnerabilities (1 low, 12 moderate, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details

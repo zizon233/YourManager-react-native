@@ -1,0 +1,4 @@
++ @swc/wasm@1.2.121
+added 1 package and audited 1875 packages in 7.168s
+found 13 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
